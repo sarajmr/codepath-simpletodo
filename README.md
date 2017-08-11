@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Project Analysis
 
-As part of your pre-work submission, please reflect on the app and answer the following questions below:
+As part of your pre-work submission, please find answers to the following questions below:
 
 **Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
 

@@ -46,8 +46,7 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
 **Answer:** Adapter is an interface between data source and layout. In other words, Adapters are way to connect a View (ListView in this case) with some kind of data source (array in this case). Adapters are important as they help not only optimize the implementation but  improves the performance as well. Adpaters render only those View objects that are either already on-screen or that are about to move on-screen. This way, the memory consumed by an adapter view can be constant and independent of the size of the data set.
-They also allow developers to minimize expensive layout inflate operations and recycle existing View objects that have move off-screen. This keeps CPU consumption low.
-Purpose of convertView: The method getView() has a parameter called convertView which points to the unused view in the recycler. Through the convertview, the Adapter tries to get hold of the unused view and reuse it to display the new view. This is partuclarly useful 
+They also allow developers to minimize expensive layout inflate operations and recycle existing View objects that have move off-screen. This keeps CPU consumption low. The method getView() has a parameter called convertView which points to the unused view in the recycler. Through the convertview, the Adapter tries to get hold of the unused view and reuse it to display the new view. This is partuclarly useful 
 
 ## Notes
 These are some of the challanges I encountered:

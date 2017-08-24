@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">Simple ToDo</string>
-    <string name="edit_name">Edit Item</string>
+    <string name="app_name">Lista</string>
+    <string name="edit_name">Editar</string>
+    <string name="priority_prompt">Select Priority</string>
+    <string name="status_prompt">Select Status</string>
+    <string name="action_favorite">Save</string>
+    <string name="action_main_favorite">Add</string>
 </resources>

@@ -23,7 +23,7 @@ The following **optional** features are implemented (except for SQL Lite, will i
 * [X] Add support for selecting the priority of each todo item (and display in listview item)
 * [X] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
-The following **additional** features are implemented (not implemented yet in the basic app version, will target these features in the advanced version):
+The following **additional** features are implemented:
 
 * [X] Added spalsh screen, alert dialog, added status (DONE, TO-DO), icon, toolbar and some additional features as shown in Listly app
 

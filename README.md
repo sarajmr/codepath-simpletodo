@@ -14,24 +14,24 @@ The following **required** functionality is completed:
 * [X] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list.
 * [X] User can **persist todo items** and retrieve them properly on app restart
 
-The following **optional** features are implemented (not implemented yet in the basic app version, will target these features in the advanced version):
+The following **optional** features are implemented (except for SQL Lite, will implement this functionality if there is any time left before deadline):
 
 * [ ] Persist the todo items [into SQLite](http://guides.codepath.com/android/Persisting-Data-to-the-Device#sqlite) instead of a text file
-* [ ] Improve style of the todo items in the list [using a custom adapter](http://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView)
-* [ ] Add support for completion due dates for todo items (and display within listview item)
-* [ ] Use a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment) instead of new Activity for editing items
-* [ ] Add support for selecting the priority of each todo item (and display in listview item)
-* [ ] Tweak the style improving the UI / UX, play with colors, images or backgrounds
+* [X] Improve style of the todo items in the list [using a custom adapter](http://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView)
+* [X] Add support for completion due dates for todo items (and display within listview item)
+* [X] Use a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment) instead of new Activity for editing items
+* [X] Add support for selecting the priority of each todo item (and display in listview item)
+* [X] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
 The following **additional** features are implemented (not implemented yet in the basic app version, will target these features in the advanced version):
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Added spalsh screen, added status and some additional features as shown in Listly
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/sarajmr/codepath-simpletodo/blob/master/SimpleToDo-Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/sarajmr/codepath-simpletodo/blob/master/SimpleToDo-Demo-23AUG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

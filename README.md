@@ -4,7 +4,7 @@
 
 Submitted by: **Saraj Mudigonda**
 
-Time spent: **20** hours spent in total
+Time spent: **60** hours spent in total
 
 ## User Stories
 
@@ -25,7 +25,7 @@ The following **optional** features are implemented (except for SQL Lite, will i
 
 The following **additional** features are implemented (not implemented yet in the basic app version, will target these features in the advanced version):
 
-* [X] Added spalsh screen, added status and some additional features as shown in Listly
+* [X] Added spalsh screen, alert dialog, added status (DONE, TO-DO), icon, toolbar and some additional features as shown in Listly
 
 ## Video Walkthrough
 
